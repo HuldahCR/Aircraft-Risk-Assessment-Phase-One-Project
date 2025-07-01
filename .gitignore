@@ -1,9 +1,6 @@
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data folders
-data/
-
 # Exported images or plots
 *.png
 *.jpg
