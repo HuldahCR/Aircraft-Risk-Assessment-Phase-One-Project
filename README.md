@@ -31,7 +31,7 @@ The project follows the **CRISP-DM methodology** and leverages **prescriptive an
 
 ---
 
-## 📊 Data Cleaning and Preparation
+## 📊 4. Data Cleaning and Preparation
 
   - Imputation of missing values (e.g. Model, Make)
   - Standardisation of data (e.g change of Event_Date datatype to Datetime)
@@ -46,7 +46,7 @@ The project follows the **CRISP-DM methodology** and leverages **prescriptive an
 
 ---
 
-## 🧪 Methodology: CRISP-DM
+## 🧪 5. Methodology: CRISP-DM
 
 1. **Business Understanding**: Define investment-oriented goals
 2. **Data Understanding**: Explore structure, completeness, and patterns
@@ -59,7 +59,7 @@ The project follows the **CRISP-DM methodology** and leverages **prescriptive an
 
 ---
 
-## 4. Visualizations
+## 📊 6. Visualizations
 
 ### Injury Severity Distribution
 - Majority of records are fatal injuries, indicating high safety concern.
@@ -71,7 +71,7 @@ The project follows the **CRISP-DM methodology** and leverages **prescriptive an
 
 ---
 
-## 📈 Key Findings
+## 📈 7. Key Findings
 
 - **Majority of accidents are fatal**, particularly among certain light aircraft types
 - **Amateur-built aircraft** have significantly higher fatality rates
@@ -81,7 +81,7 @@ The project follows the **CRISP-DM methodology** and leverages **prescriptive an
 
 ---
 
-## 💡 Prescriptive Recommendations
+## 💡 8. Prescriptive Recommendations
 
 1. Prioritize investment in low-fatality makes like Boeing, Grumman and Hughes
 2. Avoid or inspect high-risk aircraft models thoroughly
@@ -90,7 +90,7 @@ The project follows the **CRISP-DM methodology** and leverages **prescriptive an
 
 ---
 
-## 📊 Deliverables
+## 📊 9. Deliverables
 
 - ✅ **Jupyter Notebook** with full EDA and code
 - ✅ **Interactive Tableau Dashboard** (link below)
@@ -100,14 +100,12 @@ The project follows the **CRISP-DM methodology** and leverages **prescriptive an
 
 ---
 
-## 📎 Repository Structure
+## 📎 10. Repository Structure
 
 ```bash
 aviation-accident-analysis/
 │
 ├── data/
-│   ├── raw/                  # Original dataset from Kaggle
-│   └── processed/            # Cleaned CSV for analysis
 │
 ├── notebooks/
 │   └── Final_Aviation_Risk_Assessment.ipynb # Main Jupyter Notebook
@@ -124,14 +122,14 @@ aviation-accident-analysis/
 
 ---
 
-## 📊 Tableau Dashboard
+## 📊 11. Tableau Dashboard
 
 👉 [View Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/huldah.rotich/viz/AircraftRiskAssessment_17513009300660/AircraftSafetyDashboard)  
 *Features filters by Aircraft Make, Category, Weather Condition, Amateur Status, Year Range*
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 12. Tools & Technologies
 
 - Python (Pandas, NumPy, Seaborn, Matplotlib)
 - Tableau Public
@@ -141,7 +139,7 @@ aviation-accident-analysis/
 
 ---
 
-## 👤 Author
+## 👤 13. Author
 
 **Huldah Chepkoech Rotich**  
 Data Science Student | Moringa School  
@@ -149,7 +147,7 @@ Data Science Student | Moringa School
 
 ---
 
-## 📬 Contact
+## 📬 14. Contact
 
 For feedback or questions, please email: rotichhuldah@gmail.com  
 Or connect via [LinkedIn](https://www.linkedin.com/in/huldah-rotich-339797181/)
