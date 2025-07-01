@@ -1,0 +1,27 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data folders
+data/
+
+# Exported images or plots
+*.png
+*.jpg
+
+# Tableau files
+*.twb
+*.twbk
+*.twbak
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+
+# Output folders
+output/
